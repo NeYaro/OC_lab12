@@ -17,3 +17,4 @@ main.o: main.c calculate.h
 # Цель для очистки
 clean:
 	rm -f calcul *.o *~
+#Коммент для проверки
